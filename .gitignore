@@ -1,0 +1,5 @@
+# Project exclude paths
+/eureka/target/
+/one/target/
+/three/target/
+/two/target/
